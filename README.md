@@ -12,8 +12,8 @@
 
 ### 1. リポジトリをクローンします
 ```bash
-git clone git@github.com:Kida-Takuma/create-datasets-frome-line-app.git
-cd create-datasets-frome-line-app
+git clone git@github.com:Kida-Takuma/create-datasets-from-line-app.git
+cd create-datasets-from-line-app
 ```
 
 ### 2. 実行コマンド
